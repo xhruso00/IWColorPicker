@@ -7,13 +7,85 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D222F3861DE2063600854B88 /* MyColorWell.m in Sources */ = {isa = PBXBuildFile; fileRef = D222F3851DE2063600854B88 /* MyColorWell.m */; };
+		D222F39F1DE34F4000854B88 /* sf-mac_insp_color_L3-CW.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3871DE34F4000854B88 /* sf-mac_insp_color_L3-CW.png */; };
+		D222F3A01DE34F4000854B88 /* sf-mac_insp_color_L3-CW@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3881DE34F4000854B88 /* sf-mac_insp_color_L3-CW@2x.png */; };
+		D222F3A11DE34F4000854B88 /* sf-mac_insp_color_L3-CWF.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3891DE34F4000854B88 /* sf-mac_insp_color_L3-CWF.png */; };
+		D222F3A21DE34F4000854B88 /* sf-mac_insp_color_L3-CWF@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F38A1DE34F4000854B88 /* sf-mac_insp_color_L3-CWF@2x.png */; };
+		D222F3A31DE34F4000854B88 /* sf-mac_insp_color_L3-CWH.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F38B1DE34F4000854B88 /* sf-mac_insp_color_L3-CWH.png */; };
+		D222F3A41DE34F4000854B88 /* sf-mac_insp_color_L3-CWH@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F38C1DE34F4000854B88 /* sf-mac_insp_color_L3-CWH@2x.png */; };
+		D222F3A51DE34F4000854B88 /* sf-mac_insp_color_L3-CWP.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F38D1DE34F4000854B88 /* sf-mac_insp_color_L3-CWP.png */; };
+		D222F3A61DE34F4000854B88 /* sf-mac_insp_color_L3-CWP@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F38E1DE34F4000854B88 /* sf-mac_insp_color_L3-CWP@2x.png */; };
+		D222F3A71DE34F4000854B88 /* sf-mac_insp_color_L3-DRAG.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F38F1DE34F4000854B88 /* sf-mac_insp_color_L3-DRAG.png */; };
+		D222F3A81DE34F4000854B88 /* sf-mac_insp_color_L3-DRAG@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3901DE34F4000854B88 /* sf-mac_insp_color_L3-DRAG@2x.png */; };
+		D222F3A91DE34F4000854B88 /* sf-mac_insp_color_L3-H.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3911DE34F4000854B88 /* sf-mac_insp_color_L3-H.png */; };
+		D222F3AA1DE34F4000854B88 /* sf-mac_insp_color_L3-H@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3921DE34F4000854B88 /* sf-mac_insp_color_L3-H@2x.png */; };
+		D222F3AB1DE34F4000854B88 /* sf-mac_insp_color_L3-MASK.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3931DE34F4000854B88 /* sf-mac_insp_color_L3-MASK.png */; };
+		D222F3AC1DE34F4000854B88 /* sf-mac_insp_color_L3-MASK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3941DE34F4000854B88 /* sf-mac_insp_color_L3-MASK@2x.png */; };
+		D222F3AD1DE34F4000854B88 /* sf-mac_insp_color_L3-MixedFill.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3951DE34F4000854B88 /* sf-mac_insp_color_L3-MixedFill.png */; };
+		D222F3AE1DE34F4000854B88 /* sf-mac_insp_color_L3-MixedFill@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3961DE34F4000854B88 /* sf-mac_insp_color_L3-MixedFill@2x.png */; };
+		D222F3AF1DE34F4000854B88 /* sf-mac_insp_color_L3-N.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3971DE34F4000854B88 /* sf-mac_insp_color_L3-N.png */; };
+		D222F3B01DE34F4000854B88 /* sf-mac_insp_color_L3-N@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3981DE34F4000854B88 /* sf-mac_insp_color_L3-N@2x.png */; };
+		D222F3B11DE34F4000854B88 /* sf-mac_insp_color_L3-NoneFill.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F3991DE34F4000854B88 /* sf-mac_insp_color_L3-NoneFill.png */; };
+		D222F3B21DE34F4000854B88 /* sf-mac_insp_color_L3-NoneFill@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F39A1DE34F4000854B88 /* sf-mac_insp_color_L3-NoneFill@2x.png */; };
+		D222F3B31DE34F4000854B88 /* sf-mac_insp_color_L3-OpacityFill.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F39B1DE34F4000854B88 /* sf-mac_insp_color_L3-OpacityFill.png */; };
+		D222F3B41DE34F4000854B88 /* sf-mac_insp_color_L3-OpacityFill@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F39C1DE34F4000854B88 /* sf-mac_insp_color_L3-OpacityFill@2x.png */; };
+		D222F3B51DE34F4000854B88 /* sf-mac_insp_color_L3-P.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F39D1DE34F4000854B88 /* sf-mac_insp_color_L3-P.png */; };
+		D222F3B61DE34F4000854B88 /* sf-mac_insp_color_L3-P@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D222F39E1DE34F4000854B88 /* sf-mac_insp_color_L3-P@2x.png */; };
+		D222F3B91DE35DD200854B88 /* TMAColorChooserPopoverController.m in Sources */ = {isa = PBXBuildFile; fileRef = D222F3B81DE35DD200854B88 /* TMAColorChooserPopoverController.m */; };
+		D222F3BF1DE597D200854B88 /* TMASwatchGridView.m in Sources */ = {isa = PBXBuildFile; fileRef = D222F3BE1DE597D200854B88 /* TMASwatchGridView.m */; };
+		D222F3C21DE76B4500854B88 /* TMAFillSwatchGridView.m in Sources */ = {isa = PBXBuildFile; fileRef = D222F3C11DE76B4500854B88 /* TMAFillSwatchGridView.m */; };
+		D222F3C51DE79CC100854B88 /* TSKMacNSPopover.m in Sources */ = {isa = PBXBuildFile; fileRef = D222F3C41DE79CC100854B88 /* TSKMacNSPopover.m */; };
+		D222F3C91DE843F900854B88 /* TSKMacDefaultAppearanceTheme.car in Resources */ = {isa = PBXBuildFile; fileRef = D222F3C61DE7A5A400854B88 /* TSKMacDefaultAppearanceTheme.car */; };
+		D222F3CC1DE84CBB00854B88 /* PPColorFill.m in Sources */ = {isa = PBXBuildFile; fileRef = D222F3CB1DE84CBB00854B88 /* PPColorFill.m */; };
+		D222F3CE1DE84DF900854B88 /* FillSwatchesGrid.xib in Resources */ = {isa = PBXBuildFile; fileRef = D222F3CD1DE84DF900854B88 /* FillSwatchesGrid.xib */; };
 		D25756941DDB6B4B008D79E6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D25756931DDB6B4B008D79E6 /* AppDelegate.m */; };
 		D25756971DDB6B4B008D79E6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D25756961DDB6B4B008D79E6 /* main.m */; };
 		D25756991DDB6B4B008D79E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D25756981DDB6B4B008D79E6 /* Assets.xcassets */; };
 		D257569C1DDB6B4B008D79E6 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D257569A1DDB6B4B008D79E6 /* MainMenu.xib */; };
+		D25756A51DDB6C6A008D79E6 /* PPColorWell.m in Sources */ = {isa = PBXBuildFile; fileRef = D25756A41DDB6C6A008D79E6 /* PPColorWell.m */; };
+		D25756AB1DDF6992008D79E6 /* NSView+Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = D25756AA1DDF6992008D79E6 /* NSView+Additions.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D222F3841DE2063600854B88 /* MyColorWell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyColorWell.h; sourceTree = "<group>"; };
+		D222F3851DE2063600854B88 /* MyColorWell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyColorWell.m; sourceTree = "<group>"; };
+		D222F3871DE34F4000854B88 /* sf-mac_insp_color_L3-CW.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-CW.png"; sourceTree = "<group>"; };
+		D222F3881DE34F4000854B88 /* sf-mac_insp_color_L3-CW@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-CW@2x.png"; sourceTree = "<group>"; };
+		D222F3891DE34F4000854B88 /* sf-mac_insp_color_L3-CWF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-CWF.png"; sourceTree = "<group>"; };
+		D222F38A1DE34F4000854B88 /* sf-mac_insp_color_L3-CWF@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-CWF@2x.png"; sourceTree = "<group>"; };
+		D222F38B1DE34F4000854B88 /* sf-mac_insp_color_L3-CWH.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-CWH.png"; sourceTree = "<group>"; };
+		D222F38C1DE34F4000854B88 /* sf-mac_insp_color_L3-CWH@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-CWH@2x.png"; sourceTree = "<group>"; };
+		D222F38D1DE34F4000854B88 /* sf-mac_insp_color_L3-CWP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-CWP.png"; sourceTree = "<group>"; };
+		D222F38E1DE34F4000854B88 /* sf-mac_insp_color_L3-CWP@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-CWP@2x.png"; sourceTree = "<group>"; };
+		D222F38F1DE34F4000854B88 /* sf-mac_insp_color_L3-DRAG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-DRAG.png"; sourceTree = "<group>"; };
+		D222F3901DE34F4000854B88 /* sf-mac_insp_color_L3-DRAG@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-DRAG@2x.png"; sourceTree = "<group>"; };
+		D222F3911DE34F4000854B88 /* sf-mac_insp_color_L3-H.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-H.png"; sourceTree = "<group>"; };
+		D222F3921DE34F4000854B88 /* sf-mac_insp_color_L3-H@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-H@2x.png"; sourceTree = "<group>"; };
+		D222F3931DE34F4000854B88 /* sf-mac_insp_color_L3-MASK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-MASK.png"; sourceTree = "<group>"; };
+		D222F3941DE34F4000854B88 /* sf-mac_insp_color_L3-MASK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-MASK@2x.png"; sourceTree = "<group>"; };
+		D222F3951DE34F4000854B88 /* sf-mac_insp_color_L3-MixedFill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-MixedFill.png"; sourceTree = "<group>"; };
+		D222F3961DE34F4000854B88 /* sf-mac_insp_color_L3-MixedFill@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-MixedFill@2x.png"; sourceTree = "<group>"; };
+		D222F3971DE34F4000854B88 /* sf-mac_insp_color_L3-N.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-N.png"; sourceTree = "<group>"; };
+		D222F3981DE34F4000854B88 /* sf-mac_insp_color_L3-N@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-N@2x.png"; sourceTree = "<group>"; };
+		D222F3991DE34F4000854B88 /* sf-mac_insp_color_L3-NoneFill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-NoneFill.png"; sourceTree = "<group>"; };
+		D222F39A1DE34F4000854B88 /* sf-mac_insp_color_L3-NoneFill@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-NoneFill@2x.png"; sourceTree = "<group>"; };
+		D222F39B1DE34F4000854B88 /* sf-mac_insp_color_L3-OpacityFill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-OpacityFill.png"; sourceTree = "<group>"; };
+		D222F39C1DE34F4000854B88 /* sf-mac_insp_color_L3-OpacityFill@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-OpacityFill@2x.png"; sourceTree = "<group>"; };
+		D222F39D1DE34F4000854B88 /* sf-mac_insp_color_L3-P.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-P.png"; sourceTree = "<group>"; };
+		D222F39E1DE34F4000854B88 /* sf-mac_insp_color_L3-P@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sf-mac_insp_color_L3-P@2x.png"; sourceTree = "<group>"; };
+		D222F3B71DE35DD200854B88 /* TMAColorChooserPopoverController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMAColorChooserPopoverController.h; sourceTree = "<group>"; };
+		D222F3B81DE35DD200854B88 /* TMAColorChooserPopoverController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMAColorChooserPopoverController.m; sourceTree = "<group>"; };
+		D222F3BD1DE597D200854B88 /* TMASwatchGridView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMASwatchGridView.h; sourceTree = "<group>"; };
+		D222F3BE1DE597D200854B88 /* TMASwatchGridView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMASwatchGridView.m; sourceTree = "<group>"; };
+		D222F3C01DE76B4500854B88 /* TMAFillSwatchGridView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMAFillSwatchGridView.h; sourceTree = "<group>"; };
+		D222F3C11DE76B4500854B88 /* TMAFillSwatchGridView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMAFillSwatchGridView.m; sourceTree = "<group>"; };
+		D222F3C31DE79CC100854B88 /* TSKMacNSPopover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSKMacNSPopover.h; sourceTree = "<group>"; };
+		D222F3C41DE79CC100854B88 /* TSKMacNSPopover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSKMacNSPopover.m; sourceTree = "<group>"; };
+		D222F3C61DE7A5A400854B88 /* TSKMacDefaultAppearanceTheme.car */ = {isa = PBXFileReference; lastKnownFileType = file; path = TSKMacDefaultAppearanceTheme.car; sourceTree = "<group>"; };
+		D222F3CA1DE84CBB00854B88 /* PPColorFill.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PPColorFill.h; sourceTree = "<group>"; };
+		D222F3CB1DE84CBB00854B88 /* PPColorFill.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PPColorFill.m; sourceTree = "<group>"; };
+		D222F3CD1DE84DF900854B88 /* FillSwatchesGrid.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FillSwatchesGrid.xib; sourceTree = "<group>"; };
 		D257568F1DDB6B4B008D79E6 /* IWColorPicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IWColorPicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D25756921DDB6B4B008D79E6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D25756931DDB6B4B008D79E6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -21,6 +93,10 @@
 		D25756981DDB6B4B008D79E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D257569B1DDB6B4B008D79E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		D257569D1DDB6B4B008D79E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D25756A31DDB6C6A008D79E6 /* PPColorWell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PPColorWell.h; sourceTree = "<group>"; };
+		D25756A41DDB6C6A008D79E6 /* PPColorWell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PPColorWell.m; sourceTree = "<group>"; };
+		D25756A91DDF6992008D79E6 /* NSView+Additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSView+Additions.h"; sourceTree = "<group>"; };
+		D25756AA1DDF6992008D79E6 /* NSView+Additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSView+Additions.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,8 +131,50 @@
 			children = (
 				D25756921DDB6B4B008D79E6 /* AppDelegate.h */,
 				D25756931DDB6B4B008D79E6 /* AppDelegate.m */,
+				D25756A91DDF6992008D79E6 /* NSView+Additions.h */,
+				D25756AA1DDF6992008D79E6 /* NSView+Additions.m */,
+				D222F3841DE2063600854B88 /* MyColorWell.h */,
+				D222F3851DE2063600854B88 /* MyColorWell.m */,
+				D25756A31DDB6C6A008D79E6 /* PPColorWell.h */,
+				D25756A41DDB6C6A008D79E6 /* PPColorWell.m */,
+				D222F3BD1DE597D200854B88 /* TMASwatchGridView.h */,
+				D222F3BE1DE597D200854B88 /* TMASwatchGridView.m */,
+				D222F3C01DE76B4500854B88 /* TMAFillSwatchGridView.h */,
+				D222F3C11DE76B4500854B88 /* TMAFillSwatchGridView.m */,
+				D222F3CA1DE84CBB00854B88 /* PPColorFill.h */,
+				D222F3CB1DE84CBB00854B88 /* PPColorFill.m */,
+				D222F3B71DE35DD200854B88 /* TMAColorChooserPopoverController.h */,
+				D222F3B81DE35DD200854B88 /* TMAColorChooserPopoverController.m */,
+				D222F3C31DE79CC100854B88 /* TSKMacNSPopover.h */,
+				D222F3C41DE79CC100854B88 /* TSKMacNSPopover.m */,
+				D222F3C61DE7A5A400854B88 /* TSKMacDefaultAppearanceTheme.car */,
+				D222F3871DE34F4000854B88 /* sf-mac_insp_color_L3-CW.png */,
+				D222F3881DE34F4000854B88 /* sf-mac_insp_color_L3-CW@2x.png */,
+				D222F3891DE34F4000854B88 /* sf-mac_insp_color_L3-CWF.png */,
+				D222F38A1DE34F4000854B88 /* sf-mac_insp_color_L3-CWF@2x.png */,
+				D222F38B1DE34F4000854B88 /* sf-mac_insp_color_L3-CWH.png */,
+				D222F38C1DE34F4000854B88 /* sf-mac_insp_color_L3-CWH@2x.png */,
+				D222F38D1DE34F4000854B88 /* sf-mac_insp_color_L3-CWP.png */,
+				D222F38E1DE34F4000854B88 /* sf-mac_insp_color_L3-CWP@2x.png */,
+				D222F38F1DE34F4000854B88 /* sf-mac_insp_color_L3-DRAG.png */,
+				D222F3901DE34F4000854B88 /* sf-mac_insp_color_L3-DRAG@2x.png */,
+				D222F3911DE34F4000854B88 /* sf-mac_insp_color_L3-H.png */,
+				D222F3921DE34F4000854B88 /* sf-mac_insp_color_L3-H@2x.png */,
+				D222F3931DE34F4000854B88 /* sf-mac_insp_color_L3-MASK.png */,
+				D222F3941DE34F4000854B88 /* sf-mac_insp_color_L3-MASK@2x.png */,
+				D222F3951DE34F4000854B88 /* sf-mac_insp_color_L3-MixedFill.png */,
+				D222F3961DE34F4000854B88 /* sf-mac_insp_color_L3-MixedFill@2x.png */,
+				D222F3971DE34F4000854B88 /* sf-mac_insp_color_L3-N.png */,
+				D222F3981DE34F4000854B88 /* sf-mac_insp_color_L3-N@2x.png */,
+				D222F3991DE34F4000854B88 /* sf-mac_insp_color_L3-NoneFill.png */,
+				D222F39A1DE34F4000854B88 /* sf-mac_insp_color_L3-NoneFill@2x.png */,
+				D222F39B1DE34F4000854B88 /* sf-mac_insp_color_L3-OpacityFill.png */,
+				D222F39C1DE34F4000854B88 /* sf-mac_insp_color_L3-OpacityFill@2x.png */,
+				D222F39D1DE34F4000854B88 /* sf-mac_insp_color_L3-P.png */,
+				D222F39E1DE34F4000854B88 /* sf-mac_insp_color_L3-P@2x.png */,
 				D25756981DDB6B4B008D79E6 /* Assets.xcassets */,
 				D257569A1DDB6B4B008D79E6 /* MainMenu.xib */,
+				D222F3CD1DE84DF900854B88 /* FillSwatchesGrid.xib */,
 				D257569D1DDB6B4B008D79E6 /* Info.plist */,
 				D25756951DDB6B4B008D79E6 /* Supporting Files */,
 			);
@@ -130,8 +248,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D222F3AD1DE34F4000854B88 /* sf-mac_insp_color_L3-MixedFill.png in Resources */,
+				D222F3B01DE34F4000854B88 /* sf-mac_insp_color_L3-N@2x.png in Resources */,
+				D222F3AE1DE34F4000854B88 /* sf-mac_insp_color_L3-MixedFill@2x.png in Resources */,
+				D222F3A81DE34F4000854B88 /* sf-mac_insp_color_L3-DRAG@2x.png in Resources */,
+				D222F3AA1DE34F4000854B88 /* sf-mac_insp_color_L3-H@2x.png in Resources */,
+				D222F3AF1DE34F4000854B88 /* sf-mac_insp_color_L3-N.png in Resources */,
+				D222F3B51DE34F4000854B88 /* sf-mac_insp_color_L3-P.png in Resources */,
+				D222F3A31DE34F4000854B88 /* sf-mac_insp_color_L3-CWH.png in Resources */,
+				D222F3A71DE34F4000854B88 /* sf-mac_insp_color_L3-DRAG.png in Resources */,
+				D222F3AC1DE34F4000854B88 /* sf-mac_insp_color_L3-MASK@2x.png in Resources */,
+				D222F3A11DE34F4000854B88 /* sf-mac_insp_color_L3-CWF.png in Resources */,
+				D222F39F1DE34F4000854B88 /* sf-mac_insp_color_L3-CW.png in Resources */,
+				D222F3CE1DE84DF900854B88 /* FillSwatchesGrid.xib in Resources */,
 				D25756991DDB6B4B008D79E6 /* Assets.xcassets in Resources */,
+				D222F3B11DE34F4000854B88 /* sf-mac_insp_color_L3-NoneFill.png in Resources */,
+				D222F3B41DE34F4000854B88 /* sf-mac_insp_color_L3-OpacityFill@2x.png in Resources */,
+				D222F3C91DE843F900854B88 /* TSKMacDefaultAppearanceTheme.car in Resources */,
+				D222F3A51DE34F4000854B88 /* sf-mac_insp_color_L3-CWP.png in Resources */,
+				D222F3A21DE34F4000854B88 /* sf-mac_insp_color_L3-CWF@2x.png in Resources */,
+				D222F3A01DE34F4000854B88 /* sf-mac_insp_color_L3-CW@2x.png in Resources */,
+				D222F3A61DE34F4000854B88 /* sf-mac_insp_color_L3-CWP@2x.png in Resources */,
+				D222F3B31DE34F4000854B88 /* sf-mac_insp_color_L3-OpacityFill.png in Resources */,
 				D257569C1DDB6B4B008D79E6 /* MainMenu.xib in Resources */,
+				D222F3A91DE34F4000854B88 /* sf-mac_insp_color_L3-H.png in Resources */,
+				D222F3B21DE34F4000854B88 /* sf-mac_insp_color_L3-NoneFill@2x.png in Resources */,
+				D222F3B61DE34F4000854B88 /* sf-mac_insp_color_L3-P@2x.png in Resources */,
+				D222F3AB1DE34F4000854B88 /* sf-mac_insp_color_L3-MASK.png in Resources */,
+				D222F3A41DE34F4000854B88 /* sf-mac_insp_color_L3-CWH@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,7 +287,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				D25756971DDB6B4B008D79E6 /* main.m in Sources */,
+				D222F3BF1DE597D200854B88 /* TMASwatchGridView.m in Sources */,
+				D222F3CC1DE84CBB00854B88 /* PPColorFill.m in Sources */,
+				D222F3C51DE79CC100854B88 /* TSKMacNSPopover.m in Sources */,
+				D222F3C21DE76B4500854B88 /* TMAFillSwatchGridView.m in Sources */,
+				D25756AB1DDF6992008D79E6 /* NSView+Additions.m in Sources */,
+				D25756A51DDB6C6A008D79E6 /* PPColorWell.m in Sources */,
 				D25756941DDB6B4B008D79E6 /* AppDelegate.m in Sources */,
+				D222F3B91DE35DD200854B88 /* TMAColorChooserPopoverController.m in Sources */,
+				D222F3861DE2063600854B88 /* MyColorWell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,6 +445,7 @@
 				D25756A21DDB6B4B008D79E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
